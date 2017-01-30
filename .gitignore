@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+data/*.zip
+data/project_video_frames
+data/non-vehicles
+data/vehicles
